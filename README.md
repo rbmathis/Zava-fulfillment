@@ -1,2 +1,5 @@
 # Zava-fulfillment
-[FlowLens Demo] Order fulfillment orchestration — Team: Fulfillment, Group: Supply Chain
+
+Order fulfillment orchestration
+
+Update 1 by James Chen
